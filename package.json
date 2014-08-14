@@ -1,0 +1,11 @@
+{
+  "name": "ak_typoinspiration",
+  "version": "0.0.0",
+  "description": "",
+  "main": "run.js",
+  "dependencies": {
+    "each": "~0.4.8",
+    "feedparser": "~0.16.2",
+    "request": "~2.27.0"
+  }
+}
